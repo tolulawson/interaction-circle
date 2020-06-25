@@ -20,7 +20,7 @@
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.7",
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-config-google": "^0.14.0",
@@ -42,6 +42,7 @@
   "dependencies": {
     "gulp-jasmine-browser": "^4.1.0",
     "jasmine-core": "^3.5.0",
-    "puppeteer": "^4.0.0"
+    "puppeteer": "^4.0.0",
+    "twitter": "^1.7.1"
   }
 }

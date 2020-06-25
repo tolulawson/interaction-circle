@@ -22,3 +22,24 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+body {
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+
+    #canvas {
+      width: 500px;
+      height: 500px;
+      background-color: aqua;
+    }
+
+    #start-button {
+      position: absolute;
+    }
+
+  }
+}
